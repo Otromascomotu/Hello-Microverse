@@ -33,7 +33,7 @@
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-**[Hello_Microverse]** is a...
+**[Hello_Microverse]** is my first project in Microverse
 
 ## ✍️ Summary <a name="summary"></a>
 
@@ -42,8 +42,6 @@ You can take the first steps in practicing HTML, CSS and understanding the Githu
 ## 🛠 Built With HTML-CSS-&-Node.js<a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
   <ul>
     <li><a href="[https://developer.mozilla.org/en-US/docs/Web/HTML]">HTML</a></li>
